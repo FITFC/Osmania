@@ -5,12 +5,12 @@
 <h1>OSMANIA ETERNAL MEMORY BUILD SCHEMATIC (OEMBS)</h1>
 Here you will find some backups of Osmania  
 this great resilient nation that is located on the server https://www.purityvanilla.com/  
-
-* [Purity Vanilla](https://www.purityvanilla.com/)  
-
+  
+[Purity Vanilla](https://www.purityvanilla.com/)  
+  
 This project aims to be a memorial of the building heroes of Osmania  
-
+  
 We want to forever save all builds made on this public True Vanilla Experiencia server base (www.purityvanilla.com)  
-
+  
 Long live Osmania!  
 Long live Sultan Gollum!  
