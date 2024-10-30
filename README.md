@@ -4,7 +4,7 @@
 <br>
 <h1>OSMANIA ETERNAL MEMORY BUILD SCHEMATIC (OEMBS)</h1>
 Here you will find some backups of Osmania  
-this great resilient nation that is located on the server https://www.purityvanilla.com/  
+this great resilient nation that is located on the server
   
 [Purity Vanilla](https://www.purityvanilla.com/)  
   
