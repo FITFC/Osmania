@@ -13,4 +13,4 @@ This project aims to be a memorial of the building heroes of Osmania
 We want to forever save all builds made on this public True Vanilla Experiencia server base (www.purityvanilla.com)  
   
 Long live Osmania!  
-Long live Sultan Gollum!  
+Long live Sultan [Gollum0490](https://pt.namemc.com/profile/Gollum0490.1)!  
