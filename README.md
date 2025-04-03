@@ -7,7 +7,7 @@ Here you will find some backups of Osmania
 this great resilient nation that is located on the server
 
 <h3 align="center">
-  <a href="/POLICY.md">Osmania Politics</a>
+  <a href="/POLICY.md">Osmania Politics</a> | <a href="/PERIODS.md">Osmania History</a>
 </h3>
   
 [Purity Vanilla](https://www.purityvanilla.com/)  
