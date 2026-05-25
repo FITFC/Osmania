@@ -4,7 +4,7 @@ OSM LEGAL CODE VOL. 1 - 05/18/2026 (18/05/2026)
 2. You shall not fight
 3. You shall not  make ugly builds
 4. You shall be kind
-5. You shall sahre
+5. You shall share
 6. The SUltans commands is final
 7. You shall ask the Sultan before inviting other players-Osmania
 8. The sultan has the supreme power to punish those who breake these rules
