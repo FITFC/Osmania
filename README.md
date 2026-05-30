@@ -10,7 +10,7 @@ this great resilient nation that is located on the server
   <a href="/POLICY.md">Osmania Politics</a> | <a href="/PERIODS.md">Osmania History</a> | <a href="/LAWS.md">Osmania Laws</a>
 </h3>
   
-[Purity Vanilla](https://www.purityvanilla.com/)  
+[Purity Vanilla](https://www.purityvanilla.com/) | [Osmania Official Website](https://osmaniamc.wordpress.com/)
   
 This project aims to be a memorial of the building heroes of Osmania  
   
